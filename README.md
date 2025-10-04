@@ -1,4 +1,6 @@
 # PotatoForeva's profile!!!
+### Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potatoforevaa&layout=compact&theme=tokyonight)
 
 ### Languages and tools
 <div>
